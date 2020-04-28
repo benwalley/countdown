@@ -1,5 +1,5 @@
 var date = {
-	day: "2020-7-31",
+	day: "2020-8-1",
 	toDate: undefined,
 	remaining: undefined
 

@@ -5,7 +5,7 @@ body {
 .remaining-time {
 	color: white;
 	font-weight: bold;
-	font-size: 3.5em;
+	font-size: 3em;
 	text-align: center;
 	text-shadow: 1px 1px 6px black;
 }
