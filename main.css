@@ -1,0 +1,29 @@
+body {
+	background: #333;
+}
+
+.remaining-time {
+	color: white;
+	font-weight: bold;
+	font-size: 3.5em;
+	text-align: center;
+	text-shadow: 1px 1px 6px black;
+}
+
+.remaining-time div {
+	font-size: 2em;
+}
+
+.date-title {
+	text-align: center;
+	margin: 40px 0;
+	font-size: 30px;
+	text-transform: uppercase;
+
+}
+
+.date-changer {
+	position: absolute;
+	top: 80vh;
+	left: 10vw;
+}
